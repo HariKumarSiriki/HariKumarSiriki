@@ -8,7 +8,7 @@
 <h3 align="center">Welcome to my journey of building impactful software solutions and learning something new every day</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=BUILDING+BACKENDS+AND+BRINGING+IDEAS+TO+LIFE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3BB9FF&center=true&vCenter=true&width=600&lines=BUILDING+BACKENDS+AND+BRINGING+IDEAS+TO+LIFE" alt="Typing SVG" />
 </p>
 
 ---

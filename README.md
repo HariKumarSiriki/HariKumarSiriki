@@ -48,33 +48,28 @@
 
 ### 📈 GitHub Stats
 
-  <table>
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=HariKumarSiriki&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src=" https://streak-stats.demolab.com/?user=HariKumarSiriki&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=HariKumarSiriki&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKumarSiriki&layout=compact&theme=radical" alt="Top Languages" />
+</table>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKumarSiriki&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harikumarsiriki)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harikumarsiriki)  
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harikumarsiriki@gmail.com)
-
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HariKumarSiriki&label=Profile%20Views&color=brightgreen&style=flat" alt="hari kumar" />
+  <img src="https://komarev.com/ghpvc/?username=HariKumarSiriki&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
-

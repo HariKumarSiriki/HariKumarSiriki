@@ -56,9 +56,13 @@
   </tr>
 </table>
 
-<td>
-  <img src="https://streak-stats.demolab.com/?user=HariKumarSiriki&theme=radical" alt="GitHub Streak" />
-</td>
+<table>
+  <tr>
+    <td>
+       <img src="https://streak-stats.demolab.com/?user=HariKumarSiriki&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
